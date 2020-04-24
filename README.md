@@ -1,4 +1,4 @@
-<img src="logo_web.png" alt="Λογότυπο" width="480"/> &nbsp;
+<img src="logo_web.png" alt="Λογότυπο" width="240"/> &nbsp;
 # Παρακολούθηση της κατάστασης της υγείας ασθενών με COVID-19  για όσο καιρό «μένουνε σπίτι»
 
 
