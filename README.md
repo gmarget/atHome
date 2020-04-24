@@ -16,9 +16,9 @@
 <table border="0">
   <tbody>
     <tr>
-      <td><img src="screenshots/ma_dashboard.png" width="200" align="left" /></td><td>&nbsp;&nbsp;&nbsp;</td>
-      <td><img src="screenshots/ma_new-entry-oxygen.png" width="200" align="center" /></td><td>&nbsp;&nbsp;&nbsp;</td>
-      <td><img src="screenshots/ma_chat.png" width="200" align="right"/></td><td>&nbsp;&nbsp;&nbsp;</td>
+      <td><img src="screenshots/ma_dashboard.png" width="200" align="left" /></td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><img src="screenshots/ma_new-entry-oxygen.png" width="200" align="center" /></td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><img src="screenshots/ma_chat.png" width="200" align="right"/></td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
   </tbody>
 </table>
