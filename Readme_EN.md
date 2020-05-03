@@ -1,3 +1,9 @@
+<p align="right">
+  <strong>
+    <a href="./Readme.md">Ελληνικά</a>
+  </strong>
+</p>
+
 <img src="logo_web.png" alt="Λογότυπο" width="240"/> &nbsp;
 # Monitoring of COVID-19 patients’ health condition 
 Today’s technological advances, coupled with progress in the medical field, have the potential to contribute for improving people’s quality of life though the provision of systems which foster disease prevention, encourage healthy life style, support therapies, provide means to monitor chronic conditions, respond to emergency situations, as well as prevent risks for public health, such as the current COVID-19 pandemic.
@@ -41,8 +47,8 @@ The @HOME system complies with all requirements for the privacy protection of pa
 ## ICS-FORTH Ambient Intelligence Programme
 The [Ambient Intelligence (AmI) Programme](http://ami.ics.forth.gr/) of [ICS-FORTH](https://www.ics.forth.gr), active since 2005, is a long-term horizontal interdisciplinary RTD Programme aiming to develop and deploy pioneering human-centric AmI technologies in Smart Environments. The Programme constitutes a platform for cooperative research towards developing and studying AmI-related technologies and assessing their impact upon the individual, as well as upon the society as a whole, but also as a unique showcase for demonstrating the potential, added-value and benefits of AmI technologies in different aspects of everyday life and activities. Research and development work follows a human-centred approach, and addresses various everyday living environments and activities, including, but not limited to health, education, workplace, art and culture, commerce, marketing and advertising. The Programme has developed a wide variety of systems, applications and services which support human interaction with technological environments in a simple, natural and user-friendly way. 
 The @HOME system has been developed in the context of the AmI Programme under the supervision of Professor Constantine Stephanidis, Head of the Ambient Intelligence Programme and of the Human Computer Interaction Laboratory of ICS-FORTH, in cooperation with Dr. Georgios Notas, Associate Professor at the School of Medicine of the University of Crete and collaborating researcher of the AmI Programme.
-The following personnel of ICS-FORTH has collaborated the development:
- 
+
+The following personnel of ICS-FORTH has collaborated the development: 
 - Margherita Antona 
 - Georgios Mathioudakis
 - Nikos Anyfantis
