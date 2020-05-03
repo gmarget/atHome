@@ -1,6 +1,6 @@
 <p align="right">
   <strong>
-    <a href="./Readme.md">Ελληνικά</a>
+    <a href="./README.md">Ελληνικά</a>
   </strong>
 </p>
 
