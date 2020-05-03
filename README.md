@@ -1,6 +1,6 @@
 <p align="right">
   <strong>
-    <a href="./Readme_EN.md">English version</a>
+    <a href="./Readme_EN.md">English</a>
   </strong>
 </p>
 
